@@ -27,5 +27,6 @@ public class Main {
         List<Person> employees = worker.getEployees();
         System.out.println("Pocet zamestnancu: "+employees.size());
 
+        // jenom test git-u
     }
 }
